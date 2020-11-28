@@ -9,7 +9,7 @@ export const SubContainerWrapper = styled.div`
 `;
 
 export const SubContainerComponent = styled.div`
-  background-color: #ececec;
+  background-color: #faf6e7;
   box-shadow: 0px 0px 8px 1px rgba(104, 104, 104, 0.5);
   border-radius: 1px;
   width: 90%;

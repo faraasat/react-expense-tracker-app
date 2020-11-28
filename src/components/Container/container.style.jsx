@@ -11,7 +11,7 @@ export const ContainerWrapper = styled.div`
 export const ContainerComponent = styled.div`
   box-shadow: 2px -1px 10px 0px rgba(0, 0, 0, 0.6);
   border-radius: 5px;
-  background-color: lightgrey;
+  background-color: #8ca7ff;
   width: 45%;
   @media only screen and (max-width: 825px) {
     width: 75%;
